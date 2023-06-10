@@ -1,0 +1,3 @@
+[submodule "upgrade"]
+	path = upgrade
+	url = https://github.com/bellettati/upgrade.git
